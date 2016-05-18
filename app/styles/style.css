@@ -273,6 +273,7 @@ ul.about-list li span {
 .section-title h2,
 .section-title.center h2 {
     font-weight: 300;
+    font-size: 28px;
 }
 
 .section-title.center .line {
@@ -323,6 +324,7 @@ img.img-circle.team-img {
 #tf-team .thumbnail .caption {
     padding: 9px;
     color: #F2F2F2;
+    min-height: 167px;
 }
 
 .owl-theme .owl-controls .owl-page span {
